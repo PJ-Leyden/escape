@@ -10,6 +10,7 @@
 ### Level 1
   1) Convert answer to MD5 and compare to hash. 
   2) Difficulty level should be 15min 4-5 challenges. 
-  3) We want the challenges to be 
+  3) We want the challenges to be difficult enough to be entertaining. But easy enough that a newbie could win. 
+  4) As long as challenge time lengths add up to roughly 15min, we good. 
 
 ### Level 2
