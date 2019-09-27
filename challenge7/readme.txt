@@ -1,0 +1,16 @@
+So our friend Billy liked to make up his own language from modifying others....
+He calls this one "gpi nLati" which pig latin but different. His rules for the language is:
+
+1. the last letter must go to front of the word
+2. and you must add "ay" to the front of each words
+
+Example:
+doing this in python would be easy
+would become
+aygdoin aysthi ayni aynpytho aydwoul ayeb ayyeas
+
+Now, to get the answer for challenge 5, translate:
+
+hacksu is a pretty cool
+
+to  Billy's "gpi nLati" and remove the spaces.
