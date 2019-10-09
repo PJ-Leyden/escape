@@ -11,6 +11,6 @@ aygdoin aysthi ayni aynpytho aydwoul ayeb ayyeas
 
 Now, to get the answer for challenge 5, translate:
 
-hacksu is a pretty cool
+	hacksu is a pretty cool
 
 to  Billy's "gpi nLati" and remove the spaces.
